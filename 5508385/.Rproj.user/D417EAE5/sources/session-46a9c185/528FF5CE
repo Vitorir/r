@@ -1,0 +1,27 @@
+{
+    "id": "528FF5CE",
+    "path": "/cloud/project/rstudio-exercicios.R",
+    "project_path": "rstudio-exercicios.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1677618424033.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "53,0",
+        "scrollLine": "47"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1678223003,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1679257031958,
+    "read_only": false,
+    "read_only_alternatives": []
+}
